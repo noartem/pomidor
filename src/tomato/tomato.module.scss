@@ -1,0 +1,43 @@
+.resetButton {
+  all: initial;
+  cursor: pointer;
+}
+
+.circle {
+  :global .CircularProgressbar-trail {
+    stroke: #f0f0f0 !important;
+    transition: 0.1s;
+  }
+
+  :global .CircularProgressbar-path {
+    stroke: tomato !important;
+  }
+
+  :global .CircularProgressbar-text {
+    fill: tomato !important;
+    font-family: "Roboto Mono", monospace !important;
+  }
+
+  &:hover {
+    :global .CircularProgressbar-trail {
+      stroke: #e6e6e6 !important;
+    }
+  }
+}
+
+.innerCircle {
+  text-align: center;
+  margin: auto;
+  width: 30vh;
+  background: white;
+  height: 30vh;
+  border-radius: 50%;
+  display: flex;
+}
+
+.timer {
+  text-align: center;
+  margin: auto;
+  font-size: 3.8rem;
+  font-family: "Roboto Mono", monospace;
+}
