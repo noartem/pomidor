@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://noartem.github.io/pomidor/static/css/main.50c2fd6b.chunk.css",
+    "main.js": "https://noartem.github.io/pomidor/static/js/main.a20c2730.chunk.js",
+    "main.js.map": "https://noartem.github.io/pomidor/static/js/main.a20c2730.chunk.js.map",
+    "runtime-main.js": "https://noartem.github.io/pomidor/static/js/runtime-main.35da0b5c.js",
+    "runtime-main.js.map": "https://noartem.github.io/pomidor/static/js/runtime-main.35da0b5c.js.map",
+    "static/css/2.f524894f.chunk.css": "https://noartem.github.io/pomidor/static/css/2.f524894f.chunk.css",
+    "static/js/2.38053f2d.chunk.js": "https://noartem.github.io/pomidor/static/js/2.38053f2d.chunk.js",
+    "static/js/2.38053f2d.chunk.js.map": "https://noartem.github.io/pomidor/static/js/2.38053f2d.chunk.js.map",
+    "index.html": "https://noartem.github.io/pomidor/index.html",
+    "precache-manifest.81922dbaf4e6a93dfaeeeb82fc574f17.js": "https://noartem.github.io/pomidor/precache-manifest.81922dbaf4e6a93dfaeeeb82fc574f17.js",
+    "service-worker.js": "https://noartem.github.io/pomidor/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "https://noartem.github.io/pomidor/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.50c2fd6b.chunk.css.map": "https://noartem.github.io/pomidor/static/css/main.50c2fd6b.chunk.css.map",
+    "static/js/2.38053f2d.chunk.js.LICENSE.txt": "https://noartem.github.io/pomidor/static/js/2.38053f2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35da0b5c.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.38053f2d.chunk.js",
+    "static/css/main.50c2fd6b.chunk.css",
+    "static/js/main.a20c2730.chunk.js"
+  ]
+}
