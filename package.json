@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.6",
     "babel-plugin-react-css-modules": "^5.2.6",
     "beautiful-react-hooks": "^0.25.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.2",
     "react": "^16.13.1",
     "react-circular-progressbar": "^2.0.3",
     "react-dom": "^16.13.1",
